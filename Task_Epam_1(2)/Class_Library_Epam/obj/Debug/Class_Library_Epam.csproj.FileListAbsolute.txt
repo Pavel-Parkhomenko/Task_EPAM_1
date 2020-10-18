@@ -1,0 +1,12 @@
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Class_Library_Epam\bin\Debug\Class_Library_Epam.dll
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Class_Library_Epam\bin\Debug\Class_Library_Epam.pdb
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Class_Library_Epam\obj\Debug\Class_Library_Epam.csproj.CoreCompileInputs.cache
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Class_Library_Epam\obj\Debug\Class_Library_Epam.dll
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Class_Library_Epam\obj\Debug\Class_Library_Epam.pdb
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Class_Library_Epam\obj\Debug\Class_Library_Epam.csprojAssemblyReference.cache
+D:\Документы Д\Программирование\Task_Epam_1(2)\Class_Library_Epam\obj\Debug\Class_Library_Epam.csprojAssemblyReference.cache
+D:\Документы Д\Программирование\Task_Epam_1(2)\Class_Library_Epam\obj\Debug\Class_Library_Epam.csproj.CoreCompileInputs.cache
+D:\Документы Д\Программирование\Task_Epam_1(2)\Class_Library_Epam\obj\Debug\Class_Library_Epam.dll
+D:\Документы Д\Программирование\Task_Epam_1(2)\Class_Library_Epam\obj\Debug\Class_Library_Epam.pdb
+D:\Документы Д\Программирование\Task_Epam_1(2)\Class_Library_Epam\bin\Debug\Class_Library_Epam.dll
+D:\Документы Д\Программирование\Task_Epam_1(2)\Class_Library_Epam\bin\Debug\Class_Library_Epam.pdb
