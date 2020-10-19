@@ -1,0 +1,20 @@
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Task_Epam_1\bin\Debug\Task_Epam_1.exe.config
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Task_Epam_1\bin\Debug\Task_Epam_1.exe
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Task_Epam_1\bin\Debug\Task_Epam_1.pdb
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Task_Epam_1\bin\Debug\Class_Library_Epam.dll
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Task_Epam_1\bin\Debug\Class_Library_Epam.pdb
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Task_Epam_1\obj\Debug\Task_Epam_1.csprojAssemblyReference.cache
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Task_Epam_1\obj\Debug\Task_Epam_1.csproj.CoreCompileInputs.cache
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Task_Epam_1\obj\Debug\Task_Epam_1.csproj.CopyComplete
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Task_Epam_1\obj\Debug\Task_Epam_1.exe
+D:\Документы Д\Программирование\c# proba\Task_Epam_1\Task_Epam_1\obj\Debug\Task_Epam_1.pdb
+D:\Документы Д\Программирование\Task_Epam_1(2)\Task_Epam_1\bin\Debug\Task_Epam_1.exe.config
+D:\Документы Д\Программирование\Task_Epam_1(2)\Task_Epam_1\bin\Debug\Task_Epam_1.exe
+D:\Документы Д\Программирование\Task_Epam_1(2)\Task_Epam_1\bin\Debug\Task_Epam_1.pdb
+D:\Документы Д\Программирование\Task_Epam_1(2)\Task_Epam_1\bin\Debug\Class_Library_Epam.dll
+D:\Документы Д\Программирование\Task_Epam_1(2)\Task_Epam_1\bin\Debug\Class_Library_Epam.pdb
+D:\Документы Д\Программирование\Task_Epam_1(2)\Task_Epam_1\obj\Debug\Task_Epam_1.csprojAssemblyReference.cache
+D:\Документы Д\Программирование\Task_Epam_1(2)\Task_Epam_1\obj\Debug\Task_Epam_1.csproj.CoreCompileInputs.cache
+D:\Документы Д\Программирование\Task_Epam_1(2)\Task_Epam_1\obj\Debug\Task_Epam_1.csproj.CopyComplete
+D:\Документы Д\Программирование\Task_Epam_1(2)\Task_Epam_1\obj\Debug\Task_Epam_1.exe
+D:\Документы Д\Программирование\Task_Epam_1(2)\Task_Epam_1\obj\Debug\Task_Epam_1.pdb
